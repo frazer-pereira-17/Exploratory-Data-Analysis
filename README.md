@@ -10,7 +10,7 @@ Exploratory Data Analysis (EDA) is a powerful technique that allows us to gain i
 
 The dataset we'll be working with is the Google Play Store dataset, which provides information about various mobile apps available on the platform. The dataset includes details such as app names, categories, ratings, installs, sizes, prices, and more.
 
-You can obtain the dataset from [here](https://www.kaggle.com/lava18/google-play-store-apps). Make sure to download the CSV file named `googleplaystore.csv`.
+You can obtain the dataset from [here](https://www.kaggle.com/datasets/gauthamp10/google-playstore-apps). Make sure to download the CSV file named `Google-Playstore.csv`.
 
 ## Analysis Steps and Questions Answered
 
@@ -28,7 +28,6 @@ During this EDA project, we will answer the following questions:
 
 The repository structure is organized as follows:
 
-- `data/`: Directory containing the Google Play Store dataset (`googleplaystore.csv`).
 - `notebooks/`: Directory housing the Jupyter notebook (`EDA_Google_Play_Store.ipynb`) where data loading, cleaning, exploration, and analyses take place.
 - `README.md`: The document you are currently reading, providing a project overview, dataset details, analysis questions, and project structure.
 
